@@ -1,16 +1,11 @@
-# flutter_map
+# Maps On Flutter
 
-A new Flutter project.
+###  1. Menambahkan API Key di AndroidManifest.xml
+![Screenshot hello_world](images/1.PNG)
 
-## Getting Started
+### 2. Membuat class google_maps_page.dart dengan mengatur tampilan dari aplikasi maps dengan mengatur panjang Latitude dan Longitude sesuai dengan alamat rumah = -7.7021079, 112.7271303. 
+![Screenshot hello_world](images/2.PNG)
 
-This project is a starting point for a Flutter application.
+### 3. Menampilkan Aplikasi Maps dengan Posisi Marker Maps yaitu Alamat Rumah
+![Screenshot hello_world](images/3.PNG)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
